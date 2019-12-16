@@ -1,0 +1,11 @@
+{
+  "name": "shopify-todo",
+  "version": "1.0.0",
+  "description": "Learn Shopify Todo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhawal",
+  "license": "ISC"
+}
